@@ -43,3 +43,8 @@
 ```
 
 [w3c验证器](https://validator.w3.org/#validate_by_uri)
+
+```jsx
+<p dangerouslySetInnerHTML={{__html:''}}></p>
+
+```
