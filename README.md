@@ -48,3 +48,5 @@
 <p dangerouslySetInnerHTML={{__html:''}}></p>
 
 ```
+
+TS编译流程: 源码 -> 扫描(scan) -> token流 -> 解析(parse) -> ast -> 绑定(bind) -> 符号 -> 检查(check)
