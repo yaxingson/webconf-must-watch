@@ -1,0 +1,2 @@
+*.md linguist-language=html
+*.md linguist-documentation=false
