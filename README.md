@@ -68,3 +68,7 @@ Inspired by [js-must-watch](https://github.com/bolshchikov/js-must-watch). This 
 - [**My big front end worldview**](https://node.fequan.com/playvideo/701606bc91032fff67689747b925a997_7): 黄玄 [`36:53`]
 - [**Responsive WebComponents**](https://node.fequan.com/playvideo/701606bc91b62908aa3293627e5dc87c_7): 张磊 [`28:30`]
 
+## Star History
+
+![star history](https://api.star-history.com/chart?repos=yaxingson/awesome-ai-stack&type=date&legend=top-left)
+
